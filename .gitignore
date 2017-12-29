@@ -1,0 +1,56 @@
+Pods/Manifest.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/linx214.xcuserdatad/xcschemes/Pods-InternationalDemo.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/linx214.xcuserdatad/xcschemes/SnapKit.xcscheme
+Pods/SnapKit/LICENSE
+Pods/SnapKit/README.md
+Pods/SnapKit/Source/Constraint.swift
+Pods/SnapKit/Source/ConstraintAttributes.swift
+Pods/SnapKit/Source/ConstraintConfig.swift
+Pods/SnapKit/Source/ConstraintConstantTarget.swift
+Pods/SnapKit/Source/ConstraintDescription.swift
+Pods/SnapKit/Source/ConstraintDSL.swift
+Pods/SnapKit/Source/ConstraintInsets.swift
+Pods/SnapKit/Source/ConstraintInsetTarget.swift
+Pods/SnapKit/Source/ConstraintItem.swift
+Pods/SnapKit/Source/ConstraintLayoutGuide+Extensions.swift
+Pods/SnapKit/Source/ConstraintLayoutGuide.swift
+Pods/SnapKit/Source/ConstraintLayoutGuideDSL.swift
+Pods/SnapKit/Source/ConstraintLayoutSupport.swift
+Pods/SnapKit/Source/ConstraintLayoutSupportDSL.swift
+Pods/SnapKit/Source/ConstraintMaker.swift
+Pods/SnapKit/Source/ConstraintMakerEditable.swift
+Pods/SnapKit/Source/ConstraintMakerExtendable.swift
+Pods/SnapKit/Source/ConstraintMakerFinalizable.swift
+Pods/SnapKit/Source/ConstraintMakerPriortizable.swift
+Pods/SnapKit/Source/ConstraintMakerRelatable.swift
+Pods/SnapKit/Source/ConstraintMultiplierTarget.swift
+Pods/SnapKit/Source/ConstraintOffsetTarget.swift
+Pods/SnapKit/Source/ConstraintPriority.swift
+Pods/SnapKit/Source/ConstraintPriorityTarget.swift
+Pods/SnapKit/Source/ConstraintRelatableTarget.swift
+Pods/SnapKit/Source/ConstraintRelation.swift
+Pods/SnapKit/Source/ConstraintView+Extensions.swift
+Pods/SnapKit/Source/ConstraintView.swift
+Pods/SnapKit/Source/ConstraintViewDSL.swift
+Pods/SnapKit/Source/Debugging.swift
+Pods/SnapKit/Source/LayoutConstraint.swift
+Pods/SnapKit/Source/LayoutConstraintItem.swift
+Pods/SnapKit/Source/Typealiases.swift
+Pods/SnapKit/Source/UILayoutSupport+Extensions.swift
+Pods/Target Support Files/Pods-InternationalDemo/Info.plist
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-acknowledgements.markdown
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-acknowledgements.plist
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-dummy.m
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-frameworks.sh
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-resources.sh
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo-umbrella.h
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo.debug.xcconfig
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo.modulemap
+Pods/Target Support Files/Pods-InternationalDemo/Pods-InternationalDemo.release.xcconfig
+Pods/Target Support Files/SnapKit/Info.plist
+Pods/Target Support Files/SnapKit/SnapKit-dummy.m
+Pods/Target Support Files/SnapKit/SnapKit-prefix.pch
+Pods/Target Support Files/SnapKit/SnapKit-umbrella.h
+Pods/Target Support Files/SnapKit/SnapKit.modulemap
+Pods/Target Support Files/SnapKit/SnapKit.xcconfig
